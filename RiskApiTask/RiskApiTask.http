@@ -1,0 +1,6 @@
+@RiskApiTask_HostAddress = http://localhost:5219
+
+GET {{RiskApiTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
